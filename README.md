@@ -5,10 +5,4 @@ Weather application project made using HTML / SCSS/ JavaScript. Get the current 
 * Added option to determine user's current location and if user allows, to display current weather data for that location.
 * Added wind direction in current weather data.
 
-###### Current weather data:
-<img src="./static/images/project-screenshot-1.png" width="100%" title="Current weather data">
-
-###### Forecast data:
-<img src="./static/images/project-screenshot-2.png" width="100%" title="Forecast data">
-
  
