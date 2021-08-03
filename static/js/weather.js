@@ -1,6 +1,6 @@
 class Weather {
     constructor() {
-        this.key = "2b7f38cb0eab8c48a73a424e059a3036";
+        this.key = "1986480656ec490d950204923202611&q";
         this.units = "metric";
     }
     
